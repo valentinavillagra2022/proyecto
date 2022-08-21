@@ -54,7 +54,8 @@ ul li{
 
 /*TITULOS*/
 .h1s{
-    
+    background: #047c5c;
+    border-radius: 10px;
     color: black;
     font-weight: 700;
     font-size: 30px;
