@@ -8,6 +8,9 @@
 body {
         color: #ffff;
     }
+.conteiner{
+    width: 100%;
+}
 
 .titulo{
     width: 100%;
